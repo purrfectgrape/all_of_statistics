@@ -1,2 +1,2 @@
 # all_of_statistics
-Selected exercises and solutions
+Selected exercises and my solutions.
